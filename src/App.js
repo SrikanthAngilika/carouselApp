@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import './App.css'
 import Carousel from './Carousel'
-
 const App = () => {
   const images = [
     'https://img.freepik.com/free-vector/city-park-scene-background_1308-26343.jpg?size=626&ext=jpg',
