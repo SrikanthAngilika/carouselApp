@@ -7,7 +7,7 @@
 }
 
 .carousel {
-  display: flex;
+  display: flex; 
   overflow: hidden;
   width: 80%; 
 }
